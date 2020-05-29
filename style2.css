@@ -1,0 +1,12 @@
+body {
+	background-color: #ffffff;
+	color: #4F4F4F;
+	font-family: 'Ubuntu Mono', courier new;
+	font-size: 12pt;
+		background:url('images/bg2.gif');
+	background-attachment: fixed;
+  }
+b {color: #7D9EC0;}
+u {color: #BDA0CB;}
+a {color: #000000; font-family: 'Cabin Sketch', courier new; font-size: 15pt; letter-spacing: 5px; text-decoration:none}
+a:hover {color: #ffffff;}
